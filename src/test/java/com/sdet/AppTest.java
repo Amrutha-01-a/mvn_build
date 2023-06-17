@@ -1,4 +1,4 @@
-Day1
+//Day1
 package com.sdet;
 
 
@@ -20,4 +20,4 @@ public class AppTest {
    Assert.assertEquals(1, myApp.userLogin("abc", "abc@123"));
  }
 }
--->
+
