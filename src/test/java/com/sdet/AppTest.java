@@ -1,7 +1,4 @@
-//Day1
 package com.sdet;
-
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
